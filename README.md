@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anil
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning django
+<!-- - 🌱 I’m currently learning django -->
 
 
 <!---
