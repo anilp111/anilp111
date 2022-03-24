@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @anil
-- 👀 I’m interested in software development
-<!-- - 🌱 I’m currently learning django -->
+- - 💬 Ask me about anything [here](https://github.com/anilp111/anilp111/issues)
 
-
-<!---
-anilp111/anilp111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/anilp111">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=anilp111&count_private=true&show_icons=true&theme=radical" alt="Anil's github stats" />
+</a>
